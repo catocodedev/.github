@@ -1,3 +1,3 @@
 # CatoCodeDev
-Open Source org of [MewGem](https://mewgem.net/) <br/>
+Open Source org for catos <br/>
 [Site](https://catocode.dev/)
